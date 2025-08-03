@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "BaldursGate3",
+  "creator": "Broney",
+  "filler_item_name": "Is that blood? No... nevermind.",
+  "starting_items": []
+}

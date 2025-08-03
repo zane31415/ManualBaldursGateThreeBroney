@@ -1,0 +1,229 @@
+Region,Location,ProgAllowed
+Prologue: Tutorial,Escape the Nautiloid 1: Learn about the Helm,TRUE
+Prologue: Tutorial,Escape the Nautiloid 2: Reach the Helm,TRUE
+Prologue: Tutorial,Escape the Nautiloid 3: Connect the transponder,TRUE
+Prologue: Tutorial,Rescue the Illithids' Captive 1: Open the pod,TRUE
+Prologue: Tutorial,Rescue the Illithids' Captive 2: Talk to Shadowheart,TRUE
+Act One: Overground,Explore the Ruins 1: Enter the ruins,TRUE
+Act One: Overground,Explore the Ruins 2: Find the hidden sarcophagus,TRUE
+Act One: Overground,Explore the Ruins 3: Open the sarcophagus,TRUE
+Act One: Overground,Explore the Ruins 4: Talk to Withers,FALSE
+Act One: Overground,Free Lae'zel 1: Tieflings resolved,FALSE
+Act One: Overground,Free Lae'zel 2: Open Lae'zel's Cage,FALSE
+Act One: Overground,Free Lae'zel 3: Recruit Lae'zel,FALSE
+Act One: Overground,Find Your Belongings 1: Notice you've been pickpocketed,FALSE
+Act One: Overground,Find Your Belongings 2: Learn about the hideout,FALSE
+Act One: Overground,Find Your Belongings 3: Enter the hideout,FALSE
+Act One: Overground,Find Your Belongings 4: Get your stuff back,FALSE
+Act One: Overground,Get Help From Healer Nettie 1: Talk to Nettie,TRUE
+Act One: Overground,Get Help From Healer Nettie 2: Talk to Nettie in the library,TRUE
+Act One: Overground,Get Help From Healer Nettie 3: Get Poisoned,FALSE
+Act One: Overground,Investigate the Beach 1: Cutscene with Mirkon,TRUE
+Act One: Overground,Investigate the Beach 2: Mirkon rescued,FALSE
+Act One: Overground,Investigate the Beach 3: Harpies defeated,TRUE
+Act One: Overground,Investigate the Beach 4: Get the password,FALSE
+Act One: Overground,Investigate the Beach 5: Mention the password to Doni,FALSE
+Act One: Overground,Investigate the Beach 6: Meet Mol,FALSE
+Act One: Overground,Investigate Kagha 1: Note found in Grove,TRUE
+Act One: Overground,Investigate Kagha 2: Note found in Swamp,TRUE
+Act One: Overground,Investigate Kagha 3: Kagha confronted,TRUE
+Act One: Overground,Investigate Kagha 4: Fight the Shadow Druids,TRUE
+Act One: Overground,Investigate Kagha 5: Return to Zevlor,TRUE
+Act One: Overground,Return the Locket 1: Retrieve the locket,FALSE
+Act One: Overground,Return the Locket 2: Return the locket,FALSE
+Act One: Overground,Save Arabella 1: Find Arabella,TRUE
+Act One: Overground,Save Arabella 2: Save Arabella,FALSE
+Act One: Overground,Save Arabella 3: Return to Arabella's Parents,FALSE
+Act One: Overground,Save the Goblin Sazza 1: Set Sazza free (one way or another),TRUE
+Act One: Overground,Save the Goblin Sazza 2: Get Sazza out of the Emerald Grove,FALSE
+Act One: Overground,Save the Goblin Sazza 3: Reach the Goblin Camp,FALSE
+Act One: Overground,Save the Goblin Sazza 4: Speak to Sazza and Minthara,FALSE
+Act One: Overground,Save the Refugees 1: Reach the Emerald Grove,FALSE
+Act One: Overground,Save the Refugees 2: Speak with Kagha,FALSE
+Act One: Overground,Save the Refugees 3: Talk to Zevlor after Kagha,FALSE
+Act One: Overground,Save the Refugees 4: Defend the grove from the goblins,FALSE
+Act One: Overground,Save the Refugees 5: Raid the grove with the goblins,FALSE
+Act One: Overground,Save the Refugees 6: Tell Zevlor the tieflings can leave safely,FALSE
+Act One: Overground,Save the Refugees 7: Celebrate at Camp,TRUE
+Act One: Overground,Defeat the Goblins 1: Enter the Goblin Camp,TRUE
+Act One: Overground,Defeat the Goblins 2: Resolve One Goblin Leader,TRUE
+Act One: Overground,Defeat the Goblins 3: Resolve Two Goblin Leaders,TRUE
+Act One: Overground,Defeat the Goblins 4: Resolve Three Goblin Leaders,TRUE
+Act One: Overground,Find Doni 1: Find Doni,FALSE
+Act One: Overground,Find Doni 2: Return to Rikka,FALSE
+Act One: Overground,Kill Kagha 1: Kill Kagha,FALSE
+Act One: Overground,Kill Kagha 2: Kill all other hostile druids,FALSE
+Act One: Overground,Kill Kagha 3: Return to Zevlor,FALSE
+Act One: Overground,Raid the Emerald Grove 1: Speak with Minthara,FALSE
+Act One: Overground,Raid the Emerald Grove 2: Interrogate the prisoner,FALSE
+Act One: Overground,Raid the Emerald Grove 3: Give Minthara the location of the grove,FALSE
+Act One: Overground,Raid the Emerald Grove 4: Commit to one side or the other,FALSE
+Act One: Overground,Raid the Emerald Grove 5: Blow the Horn,FALSE
+Act One: Overground,Raid the Emerald Grove 6: Defeat one side or the other,FALSE
+Act One: Overground,Raid the Emerald Grove 7: Return to Zevlor/Asharak/Cerys/Minthara,FALSE
+Act One: Overground,Raid the Emerald Grove 8: Defeat one side or the other,FALSE
+Act One: Overground,Raid the Emerald Grove 9: Return to Zevlor/Asharak/Cerys/Minthara,FALSE
+Act One: Overground,Save the First Druid 1: Save Halsin,FALSE
+Act One: Overground,Save the First Druid 2: Get Halsin back to the Grove,FALSE
+Act One: Overground,Save the First Druid 3: Talk to Halsin in the Grove,FALSE
+Act One: Overground,Save the First Druid 4: Speak with Rath,FALSE
+Act One: Overground,Steal the Sacred Idol 1: Steal the druid's idol,FALSE
+Act One: Overground,Steal the Sacred Idol 2: Kill the druids,FALSE
+Act One: Overground,Steal the Sacred Idol 3: Give the Idol of Silvanus to Mol,FALSE
+Act One: Overground,Destroy the Ancient Tome 1: Destroy the Ancient Tome,FALSE
+Act One: Overground,Search the Cellar 1: Find the cellar,TRUE
+Act One: Overground,Search the Cellar 2: Find the Necromancy of Thay,TRUE
+Act One: Overground,Rescue the Gnome 1: Approach the goblins,TRUE
+Act One: Overground,Rescue the Gnome 2: Get rid of the goblins,TRUE
+Act One: Overground,Rescue the Gnome 3: Stop the windmill,FALSE
+Act One: Overground,Rescue the Gnome 4: Untie the gnome,FALSE
+Act One: Overground,Unlock the Ancient Tome 1: Combine the gem with the Ancient Tome,TRUE
+Act One: Overground,Unlock the Ancient Tome 2: Read the Ancient Tome,TRUE
+Act One: Overground,Finish the Masterwork Weapon 1: Find the blueprints,TRUE
+Act One: Underdark,Finish the Masterwork Weapon 2: Find a Sussur Tree,TRUE
+Act One: Underdark,Finish the Masterwork Weapon 3: Take some bark from the Susser Tree,TRUE
+Act One: Underdark,Finish the Masterwork Weapon 4: Forge a weapon,TRUE
+Act One: Overground,Get Help from Auntie Ethel 1: Let Auntie Ethel remove an eye,FALSE
+Act One: Overground,Save Mayrina 1: Get Auntie Ethel to disappear Mayrina,TRUE
+Act One: Overground,Save Mayrina 2: Find Auntie Ethel in her lair,FALSE
+Act One: Overground,Save Mayrina 3: Defeat Auntie Ethel,TRUE
+Act One: Overground,Save Mayrina 4: Speak with Mayrina,FALSE
+Act One: Overground,Save Mayrina 5: Find the wand,FALSE
+Act One: Overground,Save Mayrina 6: Bring the wand to Mayrina,FALSE
+Act One: Overground,Save Mayrina 7: Make the choice of what to do with Connor,FALSE
+Act One: Overground,Hunt the Devil 1: Find Karlach,TRUE
+Act One: Overground,Hunt the Devil 2: Recruit or Kill Karlach,TRUE
+Act One: Overground,Hunt the Devil 3: Talk to Anders after Karlach,TRUE
+Act One: Overground,Hunt the Devil 4: Kill Zariel's followers,TRUE
+Act One: Overground,Find the Missing Shipment 1: Find the remains of the wagon,TRUE
+Act One: Overground,Find the Missing Shipment 2: Find the gnolls,TRUE
+Act One: Overground,Find the Missing Shipment 3: Kill the gnolls,TRUE
+Act One: Overground,Find the Missing Shipment 4: Kill or speak with the survivors,TRUE
+Act One: Overground,"Find the Missing Shipment 5: Take the chest, open it, or leave it with the survivors",TRUE
+Act One: Overground,Find the Missing Shipment 6: Enter the Zhentarim hideout,TRUE
+Act One: Overground,Find the Missing Shipment 7: Speak to Zarys,TRUE
+Act One: Overground,"Find the Missing Shipment 8: Take the chest, open it, or leave it with the survivors",TRUE
+Act One: Overground,Find the Missing Shipment 9: Return the chest or kill the Zhentarim,TRUE
+Act One: Overground,Rescue the Trapped Man 1: Free Benryn,FALSE
+Act One: Overground,Rescue the Trapped Man 2: Get Benryn to safety,FALSE
+Act One: Overground,Rescue the Trapped Man 3: Talk to Benryn,FALSE
+Act One: Overground,Rescue the Trapped Man 4: Find Miri,FALSE
+Act One: Overground,Rescue the Trapped Man 5: Tell Benryn where Miri is,FALSE
+Act One: Overground,Rescue the Trapped Man 6: Talk to Benryn in front of Miri,FALSE
+Act One: Overground,Rescue the Trapped Man 7: Find the dowry,FALSE
+Act One: Overground,Rescue the Trapped Man 8: Return the dowry to Benryn,FALSE
+Act One: Overground,Free the Artist 1: Help Oskar escape,FALSE
+Act One: Overground,Rescue the Grand Duke 1: Get inside the burning building,TRUE
+Act One: Overground,Rescue the Grand Duke 2: Rescue Counselor Florrick,TRUE
+Act One: Overground,Rescue the Grand Duke 3: Speak with Counsellor Florick,FALSE
+Act One: Overground,Ask the Goblin Priestess for Help 1: Ask Gut for help,TRUE
+Act One: Overground,Ask the Goblin Priestess for Help 2: Talk to Gut in her chapel,TRUE
+Act One: Overground,Ask the Goblin Priestess for Help 3: Drink Gut's potion,FALSE
+Act One: Overground,Rescue Volo 1: Rescue Volo from the goblins,TRUE
+Act One: Overground,Rescue Volo 2: Talk to Volo in camp,FALSE
+Act One: Underdark,Avenge Glut's Circle 1: Speak with Glut,TRUE
+Act One: Underdark,Avenge Glut's Circle 2: Kill the Duergar,TRUE
+Act One: Underdark,Avenge Glut's Circle 3: Talk to Glut after killing the Duergar,TRUE
+Act One: Underdark,Avenge Glut's Circle 4: Kill Spaw or Glut,TRUE
+Act One: Underdark,Avenge Glut's Circle 5: Talk to Glut or Spaw,TRUE
+Act One: Underdark,Defeat the Duergar Intruders 1: Kill the Duergar,TRUE
+Act One: Underdark,Defeat the Duergar Intruders 2: Talk to the Sovereign,TRUE
+Act One: Underdark,Defeat the Duergar Intruders 3: Loot the Guardian Gate,TRUE
+Act One: Underdark,Deliver Nere's Head 1: Kill Nere,FALSE
+Act One: Underdark,Deliver Nere's Head 2: Behead Nere,FALSE
+Act One: Underdark,Deliver Nere's Head 3: Turn Nere's head in with the Sovereign,FALSE
+Act One: Underdark,Cure the Poisoned Gnome 1: Meet Thulla,TRUE
+Act One: Underdark,Cure the Poisoned Gnome 2: Cure Thulla,TRUE
+Act One: Underdark,Find the Missing Boots 1: Meet Thulla,TRUE
+Act One: Underdark,Find the Missing Boots 2: Get Boots of Speed from Thulla,TRUE
+Act One: Underdark,Find the Missing Boots 3: Give boots to Thrinn,TRUE
+Act One: Underdark,Find the Mushroom Picker 1: Talk to Derryth about Baelen,TRUE
+Act One: Underdark,Find the Mushroom Picker 2: Save Baelen,FALSE
+Act One: Underdark,Find the Mushroom Picker 3: Talk to Baelen after saving him,FALSE
+Act One: Underdark,Find the Mushroom Picker 4: Talk to Derryth after saving or killing Baelen,TRUE
+Act One: Underdark,Help Omeluum Investigate the Parasite 1: Let Omeluum examine the parasite,TRUE
+Act One: Underdark,Help Omeluum Investigate the Parasite 2: Get quest from Omeluum,TRUE
+Act One: Underdark,Help Omeluum Investigate the Parasite 3: Return with Tongue of Madness and Timmask Spores,TRUE
+Act One: Underdark,Help Omeluum Investigate the Parasite 4: Drink the potion,TRUE
+Act One: Underdark,Help Omeluum Investigate the Parasite 5: Get the Ring of Mind Shielding,FALSE
+Act One: Underdark,Travel through the Underdark 1: Find the Temple of Selune in the goblin camp,TRUE
+Act One: Underdark,Travel through the Underdark 2: Find the secret entrance to the Underdark,TRUE
+Act One: Underdark,Travel through the Underdark 3: Unlock the secret entrance to the Underdark,TRUE
+Act One: Underdark,Travel through the Underdark 4: Enter the Underdark through the secret entrance,TRUE
+Act One: Underdark,Travel through the Underdark 5: Find the lift in Grymforge,TRUE
+Act One: Underdark,Travel through the Underdark 6: Reach Moonrise Towers through the Grymforge lift,FALSE
+Act One: Grymforge,Blind the Absolute 1: Destroy the Grymforge scrying eye,FALSE
+Act One: Grymforge,Find Explosives 1: Talk to the deep gnomes about Philomeen,TRUE
+Act One: Grymforge,Find Explosives 2: Find Philomeen,TRUE
+Act One: Grymforge,Find Explosives 3: Get the vial of runepowder,FALSE
+Act One: Grymforge,Free True Soul Nere 1: Free Nere,TRUE
+Act One: Grymforge,Free True Soul Nere 2: Speak to Nere,TRUE
+Act One: Grymforge,Free True Soul Nere 3: Defeat Nere's opponents,FALSE
+Act One: Grymforge,Free True Soul Nere 4: Talk to Nere,FALSE
+Act One: Grymforge,Get Past the Rubble 1: Clear the rubble,TRUE
+Act One: Grymforge,Help the Spirit of the Amulet 1: Find the lost amulet,TRUE
+Act One: Grymforge,Save the Grymforge Gnomes 1: Find the deep gnome captives,TRUE
+Act One: Grymforge,Save the Grymforge Gnomes 2: Free the deep gnomes,FALSE
+Act One: Grymforge,Save the Grymforge Gnomes 3: Talk to the deep gnomes,FALSE
+Act One: Grymforge,The Adamantine Forge 1: Learn about the existence of the Adamantine Forge,TRUE
+Act One: Grymforge,The Adamantine Forge 2: Find the Forge,TRUE
+Act One: Grymforge,The Adamantine Forge 3: Pull the levers,TRUE
+Act One: Grymforge,The Adamantine Forge 4: Defeat the protector,TRUE
+Act One: Grymforge,The Adamantine Forge 5: Forge an item,TRUE
+Act One: Creche,Find the Blood of Lathander 1: Find out about the Blood of Lathander,TRUE
+Act One: Creche,Find the Blood of Lathander 2: Find the fake Blood of Lathander,TRUE
+Act One: Creche,Find the Blood of Lathander 3: Open the Secret Chamber,TRUE
+Act One: Creche,Find the Blood of Lathander 4: Find the Dawnmaster's Crest,TRUE
+Act One: Creche,Find the Blood of Lathander 5: Get past the traps,TRUE
+Act One: Creche,Find the Blood of Lathander 6: Get the Blood of Lathander,TRUE
+Act One: Creche,Find the Blood of Lathander 7: Explode the Monastery,FALSE
+Act One: Creche,Reclaim the Blue Jay's Nest 1: Kill the eagles,TRUE
+Act One: Creche,Reclaim the Blue Jay's Nest 2: Talk to the blue jay,TRUE
+Act One: Creche,Steal a Githyanki Egg 1: Talk to Lady Esther,TRUE
+Act One: Creche,Steal a Githyanki Egg 2: Take the egg,TRUE
+Act One: Creche,Steal a Githyanki Egg 3: Give an egg to Lady Esther or kill her,TRUE
+Act One: Creche,Travel through the Mountain Pass 1: Reach the mountain pass,TRUE
+Act One: Creche,Travel through the Mountain Pass 2: Talk to Minthara about how to get to Moonrise Towers,FALSE
+Act One: Creche,Travel through the Mountain Pass 3: Raid the Grove,FALSE
+Act One: Creche,Travel through the Mountain Pass 4: Celebrate at camp after raiding grove,FALSE
+Act One: Creche,Travel through the Mountain Pass 5: Take the mountain pass to Act 2,FALSE
+Act One: Creche,Find the Githyanki Creche 1: Talk to Zorru in the Grove,TRUE
+Act One: Creche,Find the Githyanki Creche 2: Be told of the patrol,TRUE
+Act One: Creche,Find the Githyanki Creche 3: Talk to the patrol,TRUE
+Act One: Creche,Find the Githyanki Creche 4: Reach the Monastery,TRUE
+Act One: Creche,Find the Githyanki Creche 5: Enter the Crèche,TRUE
+Act One: Creche,Find the Githyanki Creche 6: Ask about the zaith'isk,TRUE
+Act One: Creche,Find the Githyanki Creche 7: Go to the infirmary,TRUE
+Act One: Creche,Find the Githyanki Creche 8: Speak to the medical expert,TRUE
+Act One: Creche,Find the Githyanki Creche 9: Sit in the zaith'isk,TRUE
+Act One: Overground,The Wizard of Waterdeep 1: Have Gale die,FALSE
+Act One: Overground,The Wizard of Waterdeep 2: Talk to the projection,FALSE
+Act One: Overground,The Wizard of Waterdeep 3: Play the correct melody,FALSE
+Act One: Overground,The Wizard of Waterdeep 4: Say the mephit's name,FALSE
+Act One: Overground,The Wizard of Waterdeep 5: Resurrect Gale,FALSE
+Act One: Overground,Our Fiery Friend 1: Learn about infernal mechanic,TRUE
+Act One: Overground,Our Fiery Friend 2: Talk to Dammon about Karlach,TRUE
+Act One: Overground,Our Fiery Friend 3: Find infernal iron,TRUE
+Act One: Overground,Our Fiery Friend 4: Give infernal iron to Dammon,TRUE
+Act Two,Our Fiery Friend 5: Find Dammon in Act 2,TRUE
+Act Two,Our Fiery Friend 6: Find Dammon in Act 2,TRUE
+Act Two,Our Fiery Friend 7: Second heart upgrade,FALSE
+Act One: Overground,The Blade of Frontiers 1: Rescure Counselor Florrick,FALSE
+Act Two,The Blade of Frontiers 2: TODO: Revisit,FALSE
+Act One: Creche,Discover the History of Prince Orpheus 1: Find an Orpheus book,TRUE
+Act One: Creche,Discover the History of Prince Orpheus 2: Read an Opheus book,TRUE
+Act One: Creche,Discover the History of Prince Orpheus 3: Read all three Orpheus books,TRUE
+Act One: Overground,Embrace Your Potential 1: Find a parasite,TRUE
+Act One: Overground,Embrace Your Potential 2: Be told you can use parasites,TRUE
+Act One: Overground,Embrace Your Potential 3: Use parasites,FALSE
+Act Two: Mindflayer Colony,Embrace Your Potential 4: Commune with the Astral-Touched Tadpole,FALSE
+Act One: Overground,Discover the Artefact's Secrets 1: See the artefact work at the Goblin Camp,TRUE
+Act One: Creche,Discover the Artefact's Secrets 2: Find the Crèche,TRUE
+Act One: Creche,Discover the Artefact's Secrets 3: Enter the Crèche,TRUE
+Act One: Creche,Discover the Artefact's Secrets 4: Find the captain,TRUE
+Act One: Creche,Discover the Artefact's Secrets 5: Talk to the captain,TRUE
+Act One: Creche,Discover the Artefact's Secrets 6: Find the inquisitor,TRUE
+Act One: Creche,Discover the Artefact's Secrets 7: Defeat the inquisitor,TRUE
+Act One: Creche,Discover the Artefact's Secrets 8: Enter the Astral Prism,TRUE
+Act One: Creche,Discover the Artefact's Secrets 9: Find the person in the Astral Prism,TRUE
+Act One: Creche,Discover the Artefact's Secrets 10: Leave the Astral Prism,TRUE

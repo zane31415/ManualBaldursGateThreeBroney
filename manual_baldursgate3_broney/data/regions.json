@@ -1,0 +1,72 @@
+{
+  "Prologue: Tutorial": {
+    "starting": true,
+    "connects_to": [
+      "Act One: Overground"
+    ],
+    "requires": []
+  },
+  "Act One: Overground": {
+    "connects_to": [
+      "Act One: Underdark",
+      "Act One: Creche"
+    ],
+    "requires": "|Progressive Level Cap:1|"
+  },
+  "Act One: Underdark": {
+    "connects_to": [
+      "Act One: Grymforge"
+    ],
+    "requires": "|Progressive Level Cap:4|"
+  },
+  "Act One: Grymforge": {
+    "connects_to": ["Act Two"],
+    "requires": "|Progressive Level Cap:5|"
+  },
+  "Act One: Creche": {
+    "connects_to": [
+      "Act Two"
+    ],
+    "requires": "|Progressive Level Cap:5|"
+  },
+  "Act Two": {
+    "connects_to": [
+      "Act Two: Shar's Trials"
+    ],
+    "requires": "|Progressive Level Cap:6| AND |Filigreed Feywild Bell|"
+  },
+  "Act Two: Shar's Trials": {
+    "connects_to": [
+      "Act Two: Mindflayer Colony"
+    ],
+    "requires": "|Progressive Level Cap:8|"
+  },
+  "Act Two: Mindflayer Colony": {
+    "connects_to": [
+      "Act Three: Rivington"
+    ],
+    "requires": "|Progressive Level Cap:9|"
+  },
+  "Act Three: Rivington": {
+    "connects_to": [
+      "Act Three: Wyrm's Crossing"
+    ],
+    "requires": []
+  },
+  "Act Three: Wyrm's Crossing": {
+    "connects_to": [
+      "Act Three: Lower City"
+    ],
+    "requires": []
+  },
+  "Act Three: Lower City": {
+    "connects_to": [
+      "Act Three: Lower City Sewers"
+    ],
+    "requires": "|Progressive Level Cap:11|"
+  },
+  "Act Three: Lower City Sewers": {
+    "connects_to": [],
+    "requires": []
+  }
+}
